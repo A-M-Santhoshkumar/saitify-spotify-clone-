@@ -12,9 +12,9 @@ import { useNavigate } from 'react-router-dom'
        </div>
  
        <div className='flex items-center gap-4'>
-        <p className='bg-white text-black text-[15px] px-4 py-3 rounded-2xl hidden md:block  corsor-pointer'> Explore Premium</p>
-      <p className='bg-black py-1 px-3 rounded-2xl text-[15px] cursor-pointer'> Install App</p>
-      <p className='bg-orange-600 text-black w-7 h-7 rounded-full flex justify-center items-center cursor-pointer'>V</p>
+        <p className='bg-white text-black text-[15px] px-3 py-1 rounded-xl hidden md:block  corsor-pointer'> Explore Premium</p>
+      <a href="https://sitedesign.in/" target='_block'> <p className='bg-black py-1 px-3 rounded-2xl text-[15px] cursor-pointer'> Check Website</p></a>
+      <p className='bg-orange-600 text-black w-7 h-7 rounded-full flex justify-center items-center cursor-pointer'>S</p>
        </div>
 
   
